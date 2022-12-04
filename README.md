@@ -6,7 +6,9 @@
 
 ## 2) data info
 
-(data 정보)
+1. Korean dataset : KSS datasets(pretraining) + Custom datasets(finetuning)
+
+2. English dataset : tacotron2_statedict.pt by NVIDA tacotron2(pretraining) + Custom datasets(finetuning)
 
 ## 3) data preprocessing
 
