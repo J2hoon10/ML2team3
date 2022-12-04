@@ -1,0 +1,401 @@
+yeji_temp/363.wav|제일 좋은 걸 고르셨어요.
+yeji_temp/173.wav|그는 힘이 다할 때까지 계속 소리쳤다.
+yeji_temp/114.wav|그는 점차 냉혹한 지도자로 변화했다.
+yeji_temp/178.wav|태극기를 다세요.
+yeji_temp/452.wav|너는 왜 늘상 말썽을 일으키니?
+yeji_temp/280.wav|날이 건조해서 농작물이 죽어 가요.
+yeji_temp/299.wav|옷을 좀 갈아입고 올게요.
+yeji_temp/298.wav|태권도는 신체뿐만 아니라 마음의 수련을 강조한다.
+yeji_temp/373.wav|그 의사가 그녀의 목숨을 구해 냈다.
+yeji_temp/412.wav|열쇠를 어디에 흘린 거야?
+yeji_temp/046.wav|밤늦게 남의 집을 방문하는 것은 실례다.
+yeji_temp/476.wav|네가 뭘 잘못했는지 몰라?
+yeji_temp/342.wav|순서를 기다려 주세요.
+yeji_temp/145.wav|그녀는 나를 자기 집으로 초대했다.
+yeji_temp/460.wav|필기시험에 이어 면접이 있겠습니다.
+yeji_temp/008.wav|그들은 내가 시험에 떨어졌다고 알려 왔다.
+yeji_temp/214.wav|7시쯤에 너를 데리러 갈게.
+yeji_temp/258.wav|하늘은 스스로 돕는 자를 돕는다.
+yeji_temp/405.wav|이렇게 무더운 날씨가 오래 계속되지는 않을 거예요.
+yeji_temp/477.wav|저는 잘못한 게 없어요.
+yeji_temp/089.wav|그는 나이에 비해 정말 젊어 보인다.
+yeji_temp/368.wav|부산은 구경할 곳이 많아요.
+yeji_temp/030.wav|그 차는 들판에 버려진 채 발견됐다.
+yeji_temp/383.wav|한국에 관한 책들은 어디에 있나요?
+yeji_temp/077.wav|우리는 서로 답을 비교해 보았다.
+yeji_temp/076.wav|이 자리는 비었습니까?
+yeji_temp/068.wav|복잡한 도시 지역을 벗어나니 참 좋군요.
+yeji_temp/128.wav|은행에서 돈 찾아와야 해.
+yeji_temp/117.wav|그녀는 7년간 사귄 남자 친구를 차 버리고 딴 남자랑 결혼했다.
+yeji_temp/215.wav|그는 딸을 데리고 회사에 왔다.
+yeji_temp/264.wav|환자의 의식이 돌아왔어요.
+yeji_temp/058.wav|스트레스 받는 일 있어?
+yeji_temp/022.wav|아이들도 언젠가는 그녀를 엄마로 받아들일 거야.
+yeji_temp/311.wav|그는 내게 자신이 그 회사의 사장이라고 거짓말했다.
+yeji_temp/288.wav|우리 부부는 아이를 갖지 않기로 결정했어.
+yeji_temp/290.wav|왜 남자라는 사실을 감추려고 한 겁니까?
+yeji_temp/099.wav|우리는 파티 준비를 위해 풍선을 불었다.
+yeji_temp/217.wav|오늘 여자 친구를 부모님께 데려갈 거야.
+yeji_temp/168.wav|이 문제에 대해 말해 볼 사람?
+yeji_temp/256.wav|그는 자기 아내를 죽이고 해외로 도망갔다.
+yeji_temp/202.wav|용의자는 부산으로 달아났다.
+yeji_temp/014.wav|그녀는 이유를 묻지 않고 돈을 빌려 주었다.
+yeji_temp/339.wav|누구를 그리고 계신 거예요?
+yeji_temp/040.wav|화재가 발생하지 않도록 조심해라.
+yeji_temp/195.wav|내 동생이 어제 교통사고를 당했어.
+yeji_temp/208.wav|마음 속으로 생각한 수에 2를 더하세요.
+yeji_temp/446.wav|여권을 잃어버렸어요.
+yeji_temp/090.wav|그녀가 나에게 사진 몇 장을 보여 주었다.
+yeji_temp/415.wav|물은 높은 곳에서 낮은 곳으로 흐른다.
+yeji_temp/066.wav|내년 아버지 환갑 때 잔치를 벌일 거야.
+yeji_temp/350.wav|엄마, 고양이를 기르게 해 주세요.
+yeji_temp/081.wav|다이아몬드가 눈부시게 빛나고 있었다.
+yeji_temp/300.wav|그녀는 수영복으로 갈아입은 다음 밖으로 나갔다.
+yeji_temp/462.wav|음악을 듣고 있습니다.
+yeji_temp/357.wav|이 라디오 고치는 데 얼마나 걸릴까요?
+yeji_temp/062.wav|지하철에서 다리를 벌리고 앉지 마라.
+yeji_temp/370.wav|일자리를 구하고 있습니다.
+yeji_temp/352.wav|집중력을 기르는 것이 공부를 잘하는 비결입니다.
+yeji_temp/465.wav|저를 잊지 마세요.
+yeji_temp/457.wav|사실은 시골로 이사하는 게 싫어.
+yeji_temp/153.wav|지금 춤출 기분이 아냐.
+yeji_temp/070.wav|신발이 너무 꽉 껴서 벗을 수가 없어요.
+yeji_temp/207.wav|저희 가게는 밤 10시에 문을 닫습니다.
+yeji_temp/471.wav|저는 보통 이십 분 정도 낮잠을 잡니다.
+yeji_temp/133.wav|엄마랑 아빠는 항상 같이 상을 차리세요.
+yeji_temp/063.wav|벽 사이에 벌어진 틈이 있어.
+yeji_temp/433.wav|야, 오랜만이야. 얼굴 잊어버리겠어!
+yeji_temp/055.wav|선크림을 발랐어야지.
+yeji_temp/120.wav|빈칸을 채우시오.
+yeji_temp/414.wav|그녀는 아니라고 말하는 대신 고개를 흔들었다.
+yeji_temp/434.wav|우산 가져오는 걸 잊어버렸어.
+yeji_temp/392.wav|이혼을 결심했다.
+yeji_temp/038.wav|모두가 시험에 통과했음을 발표하게 되어 기쁘게 생각합니다.
+yeji_temp/169.wav|그 개는 낯선 사람이 다가가면 짖는다.
+yeji_temp/295.wav|박스를 끈으로 감아라.
+yeji_temp/420.wav|예약을 확인하고 싶은데요.
+yeji_temp/495.wav|그 후보자는 많은 사람들에게 일자리를 제공하겠다고 약속했다.
+yeji_temp/253.wav|채널 좀 그만 돌려라.
+yeji_temp/122.wav|제 잔에는 물을 반만 채워 주세요.
+yeji_temp/060.wav|한 달에 300만 원을 법니다.
+yeji_temp/273.wav|이 얼룩을 없앨 수 있을까요?
+yeji_temp/049.wav|어떤 남자가 지하철에서 내 발을 밟고 모른 척했다.
+yeji_temp/289.wav|그 책 어디에 감춘 거야?
+yeji_temp/200.wav|학교 다녀왔어요.
+yeji_temp/050.wav|그녀는 호기심으로 가득찬 눈으로 나를 바라보았다.
+yeji_temp/381.wav|그 이상한 남자는 개미에 대해 관찰하면서 즐거움을 찾았다.
+yeji_temp/409.wav|이 문제를 해결하기 전에는 집에 못 가.
+yeji_temp/103.wav|경찰 좀 불러 주세요.
+yeji_temp/394.wav|이민자들은 육체적, 정신적 고통을 견뎌 왔다.
+yeji_temp/458.wav|내일 이사하신다고 들었어요.
+yeji_temp/361.wav|가을은 1년 중 공부하기에 제일 좋은 계절이다.
+yeji_temp/315.wav|옷걸이에 코트를 걸어라.
+yeji_temp/395.wav|더 이상 못 견디겠어.
+yeji_temp/086.wav|어디선가 뵌 분 같아요.
+yeji_temp/490.wav|그 여자 자기 딸 자랑하는 데에 질렸어.
+yeji_temp/237.wav|길을 잘못 들어선 것 같아요.
+yeji_temp/401.wav|사장님이 기다리고 계십니다.
+yeji_temp/483.wav|잠잘 시간이야.
+yeji_temp/150.wav|그 사람은 한 시간 전에 역으로 출발했어요.
+yeji_temp/403.wav|우리는 밤새도록 얘기를 계속했습니다.
+yeji_temp/132.wav|더 이상은 못 참아.
+yeji_temp/359.wav|밑줄 친 부분을 모두 이탤릭으로 고쳐라.
+yeji_temp/252.wav|지구는 태양을 돈다.
+yeji_temp/310.wav|시험에서 좋은 성적을 거두려면 최선을 다해야 해.
+yeji_temp/235.wav|이곳에 들어오시면 안 됩니다.
+yeji_temp/223.wav|무거운 것을 들다 허리를 삐끗했다.
+yeji_temp/249.wav|저는 애완견 돌보는 걸 좋아해요.
+yeji_temp/454.wav|저는 작가라는 내 어릴 적 꿈을 이뤘어요.
+yeji_temp/472.wav|모든 일이 잘되기를 빈다.
+yeji_temp/115.wav|지구가 빠르게 변화하고 있다.
+yeji_temp/180.wav|저는 아내 덕분에 많이 달라졌습니다.
+yeji_temp/251.wav|곧장 가다가 왼쪽으로 도세요.
+yeji_temp/163.wav|카드를 단말기 위에 대세요.
+yeji_temp/162.wav|컴퓨터가 멈춰서 창이 닫히지 않아.
+yeji_temp/269.wav|이 지역 주변을 둘러보고 싶어요.
+yeji_temp/378.wav|이번 사건은 마약과 관련되어 있다.
+yeji_temp/428.wav|어려움을 이겨 내지 못하면 성공할 수 없어.
+yeji_temp/033.wav|결국 그의 개가 그의 시신을 발견했다.
+yeji_temp/482.wav|잠자는 척하는 게 쉬운 일이 아니야.
+yeji_temp/039.wav|그 밴드는 첫 음반을 발표한 직후에 해체했다.
+yeji_temp/285.wav|펜 좀 이리로 가져와라.
+yeji_temp/016.wav|엄마는 말없이 나를 꼭 안아 주셨다.
+yeji_temp/272.wav|이 문제를 둘러싸고 많은 논의가 있었다.
+yeji_temp/147.wav|그녀와 나는 음악에 맞추어 탱고를 췄다.
+yeji_temp/262.wav|좀전에 할머니가 돌아가셨다는 전화를 받았어.
+yeji_temp/318.wav|벽에 많은 옷이 걸려 있다.
+yeji_temp/075.wav|금고는 이미 비어 있었다.
+yeji_temp/161.wav|이 문은 잘 안 닫혀요.
+yeji_temp/043.wav|이 지역에는 농업이 발달했어요.
+yeji_temp/421.wav|빈 방을 창고로 활용하고 있어요.
+yeji_temp/111.wav|저는 운전면허시험에 세 번 만에 붙었어요.
+yeji_temp/137.wav|아기는 소리가 나는 쪽을 쳐다본다.
+yeji_temp/435.wav|만화책 읽는 거 좋아하세요?
+yeji_temp/085.wav|제가 해 볼게요.
+yeji_temp/302.wav|사당역에서 4호선으로 갈아타세요.
+yeji_temp/270.wav|그냥 둘러보는 거예요.
+yeji_temp/360.wav|저는 대학에서 국문학을 공부할 거예요.
+yeji_temp/177.wav|블라우스에 브로치를 달았다.
+yeji_temp/424.wav|나한테 화났어?
+yeji_temp/297.wav|선생님은 우리들에게 독서의 중요성을 늘 강조하셨어요.
+yeji_temp/121.wav|기름을 가득 채워 주세요.
+yeji_temp/346.wav|그 여자 낯은 아주 익은데, 이름이 기억나지 않아요.
+yeji_temp/459.wav|짧은 끈을 이어서 사용합시다.
+yeji_temp/487.wav|그는 자신이 거의 도둑을 잡을 뻔했다고 말했다.
+yeji_temp/263.wav|그는 19살에 한국으로 돌아왔다.
+yeji_temp/353.wav|저는 일기장에 하루 동안 있었던 일을 모두 기록합니다.
+yeji_temp/444.wav|교통사고로 가슴에 상처를 입었어요.
+yeji_temp/240.wav|읽어 드리겠습니다.
+yeji_temp/372.wav|그 개는 주인을 구하기 위해 강으로 뛰어들었다.
+yeji_temp/453.wav|수소와 산소가 결합해서 물을 이룬다.
+yeji_temp/254.wav|그녀는 나를 보자마자 차의 방향을 돌렸다.
+yeji_temp/283.wav|그 옷은 세탁소로 가져가세요.
+yeji_temp/431.wav|실은 나 한 달 전에 이혼했어.
+yeji_temp/047.wav|저희 회사에 방문해 주셔서 감사드립니다.
+yeji_temp/325.wav|저쪽으로 걸어가십시오.
+yeji_temp/388.wav|아무 것도 결정된 건 없어요.
+yeji_temp/107.wav|엄마한테 도와달라고 부탁해 봐.
+yeji_temp/061.wav|입을 벌려 보세요.
+yeji_temp/119.wav|엄마는 아빠를 엄청 챙기신다.
+yeji_temp/059.wav|어떻게 그렇게 돈을 버셨어요?
+yeji_temp/494.wav|그 사람은 집이 없는 사람들에게 먹을 것을 무료로 제공하고 있다.
+yeji_temp/130.wav|갑자기 시부모님이 오셔서 모임에 참석하지 못했어요.
+yeji_temp/004.wav|그는 아내를 많이 아낀다.
+yeji_temp/106.wav|여행사에 예약을 부탁하는 게 어때?
+yeji_temp/191.wav|방금 상자에 담아 둔 책이 없어졌어.
+yeji_temp/136.wav|이 책을 찾고 있어요.
+yeji_temp/278.wav|이 넥타이는 당신에게 어울리지 않아요.
+yeji_temp/338.wav|저는 그림을 잘 못 그리지만 그림 그리는 걸 좋아해요.
+yeji_temp/037.wav|정전이 되어 촛불을 밝혔다.
+yeji_temp/125.wav|내일 댁으로 찾아가겠습니다.
+yeji_temp/176.wav|바닥을 닦아라.
+yeji_temp/257.wav|뭘 도와 드릴까요?
+yeji_temp/218.wav|집들이 때 회사 사람들 집에 데려와도 돼?
+yeji_temp/104.wav|사람들은 그를 게으른 천재라고 부른다.
+yeji_temp/170.wav|내가 그녀에게 다가가자 그녀의 얼굴이 창백해졌다.
+yeji_temp/027.wav|소영이 좀 바꿔 주세요.
+yeji_temp/197.wav|어느 학교에 다녔어요?
+yeji_temp/134.wav|얼른 기운 차리셔야죠.
+yeji_temp/074.wav|아침마다 내 얼굴을 거울에 비춰 봐요.
+yeji_temp/396.wav|저는 한국에 오자마자 문화적 충격을 경험했어요.
+yeji_temp/265.wav|제 숙제 좀 도와주세요.
+yeji_temp/052.wav|저한테 너무 많은 걸 바라지 마세요.
+yeji_temp/419.wav|그들은 영수증을 확인하고 돈을 환불해 주었다.
+yeji_temp/110.wav|신발 밑창에 껌이 붙었다.
+yeji_temp/464.wav|아침에 너무 바빠서 렌즈 끼는 걸 잊었어.
+yeji_temp/080.wav|아내에게서 돈을 빌린다는 것은 좀 이상해요.
+yeji_temp/279.wav|저는 일요일마다 교회에 갑니다.
+yeji_temp/442.wav|우리 신랑이랑 인사한 적 있어?
+yeji_temp/268.wav|수업 중에 휴대폰을 켜 두지 마세요.
+yeji_temp/328.wav|맨발로 걷지 마라.
+yeji_temp/337.wav|그러지 않겠다고 약속했잖아.
+yeji_temp/430.wav|교사는 학생들을 이해할 필요가 있습니다.
+yeji_temp/303.wav|저는 학생들을 가르치는 일을 좋아합니다.
+yeji_temp/478.wav|계산이 잘못된 것 같은데요.
+yeji_temp/397.wav|그는 한국의 여러 다른 생활방식을 경험할 수 있었다.
+yeji_temp/092.wav|김치가 맛이 없어서 볶았어.
+yeji_temp/284.wav|개인 물건들을 꼭 가져가십시오.
+yeji_temp/449.wav|일어서서 말씀해 주세요.
+yeji_temp/244.wav|제 말 듣고 계세요?
+yeji_temp/484.wav|범인이 누구한테 잡혔어요?
+yeji_temp/158.wav|죄송하지만 예약을 취소하고 싶어요.
+yeji_temp/369.wav|어디를 구경하고 싶으세요?
+yeji_temp/118.wav|소지품을 잘 챙기세요.
+yeji_temp/309.wav|감독관이 시험지를 빨리 거둔 것 같아.
+yeji_temp/292.wav|성원에 깊이 감사하고 있습니다.
+yeji_temp/204.wav|신문 좀 내려주실래요? 선반에 손이 안 닿아서요.
+yeji_temp/281.wav|상상력을 개발하고 싶으면 시를 읽으세요.
+yeji_temp/098.wav|침으로 편지 봉투에 우표를 붙이지 마세요.
+yeji_temp/048.wav|너는 브레이크를 너무 세게 밟아.
+yeji_temp/146.wav|낯선 사람들 앞에서 춤을 추는 건 나한테는 정말 어려운 일이야.
+yeji_temp/102.wav|오늘 아침 아내랑 말다툼을 벌였어.
+yeji_temp/002.wav|그녀의 사랑을 얻기 위해 애썼지만 헛수고였다.
+yeji_temp/293.wav|잠시만 눈 좀 감아 봐.
+yeji_temp/234.wav|방금 네가 한 말은 너의 무지를 드러내는 거야.
+yeji_temp/084.wav|오늘 우연히 길에서 그 여자를 봤어요.
+yeji_temp/356.wav|나는 대체로 선생님의 말씀에 주의를 기울이지 않았다.
+yeji_temp/021.wav|그는 절대 다른 사람의 의견을 받아들이지 않는다.
+yeji_temp/422.wav|성공은 시간을 어떻게 활용하는가에 달려 있다.
+yeji_temp/005.wav|그 애 전화번호 알아?
+yeji_temp/078.wav|부모가 저지르는 큰 실수 중 하나는 자기 아이를 다른 집 아이와 비교하는 것이다.
+yeji_temp/496.wav|나는 주로 학교 생활에 관한 것들을 일기에 적는다.
+yeji_temp/015.wav|내가 아기를 안고 있을게.
+yeji_temp/216.wav|이 남자 병원에 데려가야 해.
+yeji_temp/447.wav|자리에서 일어나 대통령을 맞아 주십시오.
+yeji_temp/165.wav|질문에 대답하세요.
+yeji_temp/057.wav|신용 카드를 받나요?
+yeji_temp/335.wav|보통 하루에 몇 시간 근무하세요?
+yeji_temp/345.wav|저를 기억하시겠어요?
+yeji_temp/129.wav|많은 배우들이 그 시상식에 참석하지 않았다.
+yeji_temp/387.wav|저희 막 결혼했어요.
+yeji_temp/142.wav|테니스를 치다가 발목을 삐었어요.
+yeji_temp/261.wav|제 꿈은 한국으로 돌아가는 거예요.
+yeji_temp/436.wav|저는 글을 읽을 줄은 알지만 쓸 줄은 몰라요.
+yeji_temp/127.wav|도움이 필요하면 나를 찾아와.
+yeji_temp/071.wav|아침 햇빛이 비치는 걸 보니 상쾌하군.
+yeji_temp/443.wav|어떤 옷을 입어야 해요?
+yeji_temp/009.wav|나는 살아오면서 감기를 앓은 적이 한 번도 없다.
+yeji_temp/148.wav|결혼 축하해!
+yeji_temp/183.wav|포도가 나무에 달려 있었다.
+yeji_temp/275.wav|이웃집에서 망치를 하나 얻어 와라.
+yeji_temp/069.wav|외투 벗으실래요?
+yeji_temp/094.wav|이 소포를 뉴욕으로 보내고 싶은데요.
+yeji_temp/028.wav|눈이 얼음으로 바뀌었어.
+yeji_temp/391.wav|심사위원들이 그를 우승자로 결정했어요.
+yeji_temp/296.wav|실수로 테이프를 너무 많이 감아 버렸다.
+yeji_temp/413.wav|우리는 탬버린을 흔들면서 같이 노래를 불렀다.
+yeji_temp/213.wav|컵을 종이로 덮어 두어라.
+yeji_temp/072.wav|커튼 너머에 누군가의 그림자가 비쳤다.
+yeji_temp/135.wav|교차로에서 저를 찾을 수 있을 거예요.
+yeji_temp/326.wav|여기까지 걸어왔어요.
+yeji_temp/317.wav|전화 잘못 거셨어요.
+yeji_temp/354.wav|한국의 자동차 산업은 세계 3위를 기록하고 있습니다.
+yeji_temp/473.wav|공부 잘되고 있어?
+yeji_temp/314.wav|저는 걱정하지 마세요.
+yeji_temp/041.wav|어제 일본에서 태풍이 발생했다.
+yeji_temp/406.wav|회의가 밤늦도록 계속됐다.
+yeji_temp/198.wav|학생이세요? 아니면 직장을 다니세요?
+yeji_temp/312.wav|거짓말하지 마세요.
+yeji_temp/067.wav|가난에서 벗어나려면 습관부터 바꿔라.
+yeji_temp/480.wav|잠들었으면 깨우지 마세요.
+yeji_temp/245.wav|몇 시에 인천에 도착하셨어요?
+yeji_temp/287.wav|깜빡 잊고 펜을 안 가지고 왔어요.
+yeji_temp/064.wav|담배 꽁초를 여기에 버리지 마세요.
+yeji_temp/241.wav|나는 문을 열고 교회 안을 들여다봤다.
+yeji_temp/466.wav|당신과 더 이상 이야기하고 싶지 않아요.
+yeji_temp/467.wav|아무한테도 이야기하지 마, 알았지?
+yeji_temp/230.wav|열쇠를 잃어버려서 창문으로 집에 들어갔다.
+yeji_temp/225.wav|사무실에 잠깐 들러 주실 수 있으세요?
+yeji_temp/181.wav|그는 결승점을 향해 전속력으로 달렸다.
+yeji_temp/390.wav|어디로 피서를 갈 지 아직 결정하지 못했어요.
+yeji_temp/011.wav|요즘 공부가 안돼요.
+yeji_temp/437.wav|편의점에서 일하고 있습니다.
+yeji_temp/097.wav|그녀는 짐 하나하나에 이름표를 붙였다.
+yeji_temp/167.wav|그녀는 나를 딸처럼 대한다.
+yeji_temp/441.wav|이모한테 인사해라.
+yeji_temp/193.wav|밧줄을 너무 세게 당겨서 끊어졌어.
+yeji_temp/485.wav|경찰에게 잡힌 용의자는 혐의를 부인했다.
+yeji_temp/174.wav|부모님을 실망시키지 않기 위해 최선을 다하겠다.
+yeji_temp/190.wav|그들은 아주 친한 사이여서 서로를 닮아 가고 있다.
+yeji_temp/031.wav|이번 달 초에 상어떼가 해안가에서 발견됐다.
+yeji_temp/154.wav|오늘 밤에 춤추러 갈까요?
+yeji_temp/189.wav|너는 내가 아는 어떤 사람이랑 많이 닮았어.
+yeji_temp/152.wav|이 기차는 부산을 3시에 출발합니다.
+yeji_temp/188.wav|부모님의 꾸중에는 사랑이 담겨 있다.
+yeji_temp/486.wav|내 손 잡아.
+yeji_temp/250.wav|우리 엄마는 우리를 돌보는 것 때문에 아침부터 밤까지 바빠요.
+yeji_temp/138.wav|그런 식으로 사람을 빤히 쳐다보지 마.
+yeji_temp/380.wav|내 취미는 길거리의 사람들을 관찰하는 거야.
+yeji_temp/238.wav|이 지역에 새 아파트가 여기저기 들어서고 있다.
+yeji_temp/323.wav|돌다리도 두드려 보고 건너라.
+yeji_temp/362.wav|이 중에서 하나를 고르세요.
+yeji_temp/182.wav|그 오토바이는 시속 60킬로로 달렸어요.
+yeji_temp/456.wav|꿈은 이루어진다.
+yeji_temp/210.wav|연못에 돌을 던지지 마세요.
+yeji_temp/096.wav|휴가 잘 보내세요.
+yeji_temp/196.wav|그는 자기 부하들 앞에서 창피를 당했다.
+yeji_temp/211.wav|투수는 타자가 아닌 포수에게 공을 던져야 한다.
+yeji_temp/144.wav|이번 주말 내 생일에 너를 초대하고 싶은데.
+yeji_temp/329.wav|길을 걷다 좋은 생각이 떠올랐어요.
+yeji_temp/112.wav|밤이 되면 그녀는 괴물로 변한다.
+yeji_temp/141.wav|그는 내 얼굴을 쳐서 자기 손목을 삐었다.
+yeji_temp/426.wav|창문을 향해 앉아 주세요.
+yeji_temp/221.wav|비타민 C가 많이 들어 있는 과일을 드세요.
+yeji_temp/013.wav|아무 것도 먹지 않으면 죽게 되어 있다.
+yeji_temp/026.wav|색깔을 바꾸는 게 나을 거 같아.
+yeji_temp/334.wav|저는 방송국에서 근무하고 있습니다.
+yeji_temp/023.wav|어디에서 영어를 배우셨어요?
+yeji_temp/282.wav|정부는 이 지역을 관광지로 개발할 계획이라고 발표했다.
+yeji_temp/042.wav|돌고래는 지능이 발달했다.
+yeji_temp/469.wav|너는 책을 베개로 이용하는구나.
+yeji_temp/491.wav|우리 엄마는 내가 네 살 때 한글을 깨쳤다고 자랑했다.
+yeji_temp/470.wav|왜 늦게까지 안 자고 있니?
+yeji_temp/025.wav|이거 다른 걸로 바꿀 수 있을까요?
+yeji_temp/336.wav|그러는 게 좋을 것 같아.
+yeji_temp/160.wav|어쩌다 다친 거야?
+yeji_temp/116.wav|그는 공을 차는 척하면서 상대 선수를 찼다.
+yeji_temp/227.wav|제 말이 들리세요?
+yeji_temp/236.wav|오늘은 집으로 일찍 들어와라.
+yeji_temp/228.wav|당신 제안은 흥미롭게 들리네요.
+yeji_temp/321.wav|집에서 회사까지 지하철로 얼마나 걸려요?
+yeji_temp/316.wav|그녀에게 다가가서 말을 걸었습니다.
+yeji_temp/259.wav|그 사람은 뒤를 돌아보지 않고 차에 올랐다.
+yeji_temp/349.wav|아직 이긴 게 아니니까 기뻐하기에는 이릅니다.
+yeji_temp/001.wav|그는 괜찮은 척하려고 애쓰는 것 같았다.
+yeji_temp/065.wav|돈을 다 써 버렸어요
+yeji_temp/194.wav|문을 당겨서 여세요.
+yeji_temp/155.wav|소주 5병에 결국 취하고 말았다.
+yeji_temp/243.wav|나는 음악을 듣다 잠이 들었다.
+yeji_temp/301.wav|제 생각에는 버스를 갈아타는 게 나을 것 같아요.
+yeji_temp/411.wav|아내는 나를 보고 기쁨의 눈물을 흘렸다.
+yeji_temp/079.wav|이틀 동안 차를 빌리고 싶은데요.
+yeji_temp/166.wav|어른들에게는 "예"나 "아니요"라고 대답해야 합니다.
+yeji_temp/481.wav|요즘 잠들기가 힘들어.
+yeji_temp/187.wav|그릇에 물이 담겨 있어.
+yeji_temp/445.wav|길을 잃어버렸어요.
+yeji_temp/185.wav|아내를 업고 병원으로 달려갔다.
+yeji_temp/087.wav|지난번에 뵌 후 오랜만에 뵙습니다.
+yeji_temp/489.wav|저는 부산에서 자랐어요.
+yeji_temp/149.wav|할아버지의 회갑을 축하하는 잔치를 열었다.
+yeji_temp/439.wav|한국에 처음 왔을 때 서울에서 길을 잃었습니다.
+yeji_temp/246.wav|도착하면 알려 줘.
+yeji_temp/400.wav|지금 여기에 안 계세요.
+yeji_temp/024.wav|동료에게서 수화를 배우고 있습니다.
+yeji_temp/497.wav|성함을 영어로 적어 주세요.
+yeji_temp/088.wav|그거 맛있어 보이네.
+yeji_temp/220.wav|그녀를 잊는 데에 2년이 들었어.
+yeji_temp/247.wav|나는 10년 뒤에는 부자가 될 거야.
+yeji_temp/343.wav|친구를 기다리는 중입니다.
+yeji_temp/093.wav|고기를 기름에 볶지 마라.
+yeji_temp/108.wav|냄비에 물을 부어라.
+yeji_temp/140.wav|창문은 뭘로 청소하나요?
+yeji_temp/175.wav|자기 전에 이 닦는 거 잊지 마라.
+yeji_temp/377.wav|이 문제 때문에 위원회가 구성됐습니다.
+yeji_temp/407.wav|지금 당장은 할 일이 없어요.
+yeji_temp/199.wav|아버지는 일요일이면 사냥을 다니세요.
+yeji_temp/500.wav|이 서류들을 알파벳 순으로 정리하세요.
+yeji_temp/398.wav|제가 잘못 계산했나 봐요.
+yeji_temp/432.wav|부모님이 이혼하신 이후로 엄마랑 살고 있어요.
+yeji_temp/306.wav|시계는 7시를 가리키고 있어요.
+yeji_temp/499.wav|약속 장소는 어디로 정했어?
+yeji_temp/192.wav|고객이 감사의 마음을 담은 편지를 보내 왔어.
+yeji_temp/219.wav|그때 그녀가 의사를 데려오지 않았으면 나는 죽었을 거야.
+yeji_temp/233.wav|그녀가 새하얀 이를 드러내면서 웃었다.
+yeji_temp/331.wav|나를 보자마자 아기는 울음을 그쳤어요.
+yeji_temp/385.wav|저희 부부는 결혼한 직후에 한 차례 위기를 겪었습니다.
+yeji_temp/045.wav|저는 무력 사용을 반대합니다.
+yeji_temp/151.wav|이 역에서 출발하는 사람 중에는 군인이 많아.
+yeji_temp/348.wav|어머님이 기뻐하시겠어요.
+yeji_temp/308.wav|저는 제 자신이 업무에 필요한 모든 자질을 갖추고 있다고 자신합니다.
+yeji_temp/239.wav|제가 전에 명함을 드렸나요?
+yeji_temp/416.wav|시간이 흐르면 괜찮아질 거야.
+yeji_temp/073.wav|램프가 그의 작품을 비추게 배치되어 있었다.
+yeji_temp/463.wav|왜 아직 안 자고 깨어 있니?
+yeji_temp/113.wav|전혀 안 변하셨네요.
+yeji_temp/376.wav|축구는 11명으로 구성돼 있습니다.
+yeji_temp/384.wav|저는 어렸을 때 많은 어려움을 겪었어요.
+yeji_temp/101.wav|그 법안을 놓고 말다툼이 벌어졌어.
+yeji_temp/020.wav|내가 누군지 알아보겠니?|내가 누군지 알아보겠니?
+yeji_temp/404.wav|그는 계속해서 새로운 변명거리를 만들어 냈다.
+yeji_temp/209.wav|삼 더하기 사는 칠
+yeji_temp/468.wav|그 영화는 특수효과를 많이 이용해 만들어졌다.
+yeji_temp/232.wav|그것이 사실임이 드러났다.
+yeji_temp/307.wav|그 호텔은 호화로운 시설들을 갖추고 있다.
+yeji_temp/179.wav|엄마가 돌아가신 후 모든 것이 달라졌어요.
+yeji_temp/274.wav|그렇다면 그 자를 없애!
+yeji_temp/091.wav|주민등록증을 보여 주시겠어요?
+yeji_temp/367.wav|여기에 오시느라 고생하지 않으셨어요?
+yeji_temp/139.wav|나는 1년에 한 번 우리 집 화장실을 청소한다.
+yeji_temp/423.wav|아빠가 화나신 것 같아.
+yeji_temp/082.wav|모든 창에서 촛불이 반짝반짝 빛나고 있었다.
+yeji_temp/440.wav|많은 사람들이 태풍으로 전 재산을 잃었어요.
+yeji_temp/123.wav|인터넷 찾아봤어?
+yeji_temp/294.wav|저는 사진을 찍을 때 한쪽 눈을 감는 버릇이 있어요.
+yeji_temp/425.wav|이 배는 일본을 향하고 있습니다.
+yeji_temp/222.wav|감기 든 거니?
+yeji_temp/203.wav|도둑은 개를 보고는 달아났습니다.
+yeji_temp/365.wav|모든 점을 고려했을 때 가지 않는 게 낫다.
+yeji_temp/184.wav|너한테 달렸어.
+yeji_temp/498.wav|누가 낼 건지 가위바위보로 정하자.
+yeji_temp/304.wav|외국인에게 태권도를 가르치고 있어요.
+yeji_temp/286.wav|컴퓨터는 우리 생활에 엄청난 변화를 가져왔다.
