@@ -12,7 +12,9 @@
 
 ## 3) data preprocessing
 
-(data 전처리 방법)
+1. 음성 파일을 Audacity를 이용하여 노이즈 제거와 노멀라이즈를 진행한다.
+
+2. data_trim.py 파일을 이용하여 음성 앞 뒤 부분의 22050hz 샘플링과 공백 부분을 조절한다. 
 
 ## 4) Training
 
