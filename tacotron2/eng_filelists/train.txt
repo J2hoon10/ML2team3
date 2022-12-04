@@ -1,0 +1,160 @@
+Eng_temp/18.wav|This book has a light green cover.
+Eng_temp/117.wav|I read this book the other day and found it very interesting, so I will give it to you.
+Eng_temp/179.wav|He had hardly escaped before he was recaptured.
+Eng_temp/124.wav|Won't you go to that island with me if it is fine tomorrow afternoon? It takes about an hour by boat.
+Eng_temp/122.wav|Will you please tell me the way to the Science Museum?
+Eng_temp/4.wav|She remains single.
+Eng_temp/123.wav|Fetch me a chair, will you?
+Eng_temp/77.wav|At what age did you enter primary school?
+Eng_temp/40.wav|What time do you get up and what time do you go to bed?
+Eng_temp/192.wav|Houses are being built one after another along the railway line.
+Eng_temp/72.wav|He attended the meeting in spite of illness.
+Eng_temp/157.wav|We have known each other well since childhood.
+Eng_temp/153.wav|I am very healthy, and have never been laid up in my life.
+Eng_temp/125.wav|What kind of dog will you keep, a watchdog or a pointer. I will keep a watchdog.
+Eng_temp/25.wav|The sun rises in the east and sets in the west.
+Eng_temp/163.wav|We have been married these five years.
+Eng_temp/155.wav|I have often stayed in Europe. your customs are very different from ours, aren't they?
+Eng_temp/62.wav|All his family were fond of talking.
+Eng_temp/188.wav|I used to live in Busan, but now I am living in Seoul.
+Eng_temp/105.wav|As he is very healthy he will live to be eighty.
+Eng_temp/114.wav|Bring me a chair; any chair will do.
+Eng_temp/145.wav|Will you lend me your newspaper, when you have done with it?
+Eng_temp/60.wav|I don't agree with him. Neither do I.
+Eng_temp/36.wav|What is Mr. Yang a professor of?
+Eng_temp/51.wav|Don't you like tomatoes? No, I don't.
+Eng_temp/167.wav|He is always in a good humour, and I have never seen an angry look on his face.
+Eng_temp/158.wav|He has been a 0.3 batter for five years on end.
+Eng_temp/66.wav|I'm glad you had a baby.
+Eng_temp/49.wav|Is it true? Perhaps not.
+Eng_temp/58.wav|There are a few mistakes in your composition.
+Eng_temp/98.wav|What shall I do next?
+Eng_temp/94.wav|I will start on the first fine day.
+Eng_temp/121.wav|Which book shall I have, this or that? You shall have this one.
+Eng_temp/85.wav|He laid himself down under a large oak.
+Eng_temp/21.wav|Does he have only two meals a day?
+Eng_temp/144.wav|You may go home when you have finished this.
+Eng_temp/129.wav|My maid shall call you at five tomorrow morning.
+Eng_temp/116.wav|Rain or shine, I will call on you at the appointed time.
+Eng_temp/132.wav|Everybody has gone home.
+Eng_temp/190.wav|I wonder if it is still raining.
+Eng_temp/110.wav|Where will the next Olympics be held?
+Eng_temp/101.wav|You will not be able to persuade that obstinate man.
+Eng_temp/76.wav|Did you go anywhere yesterday?
+Eng_temp/201.wav|What are you going to do with the puppy?
+Eng_temp/14.wav|Do they have much snow in that district?
+Eng_temp/87.wav|After supper, I took a walk in the park.
+Eng_temp/86.wav|We made ourselves comfortable in Korean dresses.
+Eng_temp/35.wav|What is the highest mountain in the world?
+Eng_temp/181.wav|I shall have crossed the Pacific by this time next week.
+Eng_temp/106.wav|Unless she is more earnest in her studies, she will not be able to keep up with the class.
+Eng_temp/68.wav|Some had a swim and some had a dance.
+Eng_temp/199.wav|So you're going to America! Allow me to congratulate you.
+Eng_temp/115.wav|I will accomplish my purpose at all costs.
+Eng_temp/120.wav|You shall hear everything later.
+Eng_temp/173.wav|I did not know him, because I had never met him before.
+Eng_temp/13.wav|It is the 13th of April and Friday today.
+Eng_temp/164.wav|I thought something must have happened to the streetcar.
+Eng_temp/109.wav|Will he accept my proposal?
+Eng_temp/149.wav|He went to Canada the year before last and has not written to me since that time.
+Eng_temp/88.wav|She put her room in order.
+Eng_temp/97.wav|Shall I go and post this letter? Yes, please.
+Eng_temp/130.wav|What salary shall he have? He shall have 80,000 won.
+Eng_temp/57.wav|Neither my father nor I am a smoker.
+Eng_temp/54.wav|There is no doctor in this village.
+Eng_temp/119.wav|You shall pay me at your convenience.
+Eng_temp/24.wav|I have a bad headache today.
+Eng_temp/174.wav|I had just written my answers, when the bell rang.
+Eng_temp/146.wav|I have just been to the hospital to inquire after Mr. A.
+Eng_temp/34.wav|What do you use this box for?
+Eng_temp/99.wav|When shall I have your answer?
+Eng_temp/28.wav|What part of the country do you come from?
+Eng_temp/64.wav|I was born in Seoul on the 13th of July, 1968.
+Eng_temp/43.wav|How do you like this color?
+Eng_temp/91.wav|I hope I will pass the entrance examination this time.
+Eng_temp/67.wav|Did you have a good time yesterday?
+Eng_temp/29.wav|Where do you live now? I live with my uncle in Suwon.
+Eng_temp/69.wav|The King dreamed a strange dream.
+Eng_temp/50.wav|He is no fool.
+Eng_temp/171.wav|When I awoke, the sun had already risen.
+Eng_temp/80.wav|The girl gave her seat to an old woman in the streetcar.
+Eng_temp/150.wav|Have you ever read 'Gone with the Wind'?
+Eng_temp/133.wav|She has become happy.
+Eng_temp/165.wav|He has been absorbed in reading a novel for three hours without taking a meal.
+Eng_temp/151.wav|You have never seen such a pretty picture, have you?
+Eng_temp/177.wav|When I went to the house the following day, I found that somebody had already moved in.
+Eng_temp/46.wav|I don't like him. Why not?
+Eng_temp/83.wav|I was not born yet when World War II came to an end.
+Eng_temp/139.wav|Have you got your pay? No, not yet.
+Eng_temp/27.wav|I take the Dong-A Ilbo and the Korea Times.
+Eng_temp/16.wav|It is rather dark in this room, isn't it?
+Eng_temp/186.wav|If I read the Bible once more, I shall have read it three times.
+Eng_temp/197.wav|He is always speaking ill of others.
+Eng_temp/168.wav|When I arrived at the station, I found the train I wanted to take had already started.
+Eng_temp/38.wav|Which way do you take?
+Eng_temp/156.wav|I have not heard from him for a long time.
+Eng_temp/53.wav|His wife is extravagant. Nothing pleases her.
+Eng_temp/193.wav|Your socks are being washed as they are dirty.
+Eng_temp/187.wav|I am writing to my uncle in America.
+Eng_temp/152.wav|Have you ever been in Mokpo? No, I have never been there.
+Eng_temp/65.wav|Mr. A was absent from school owing to influenza today.
+Eng_temp/55.wav|Have you any friends in America? If you have one. please introduce him to me. No, I haven't any.
+Eng_temp/128.wav|These three students shall not remain in our school.
+Eng_temp/108.wav|How long will these beautiful spring days last?
+Eng_temp/39.wav|What makes you think so?
+Eng_temp/103.wav|Will you have time enough to do this for me tomorrow?
+Eng_temp/185.wav|He must have arrived at Busan by this time.
+Eng_temp/15.wav|How far is it from here to the airport?
+Eng_temp/17.wav|How is it with your family?
+Eng_temp/142.wav|He may have fallen ill.
+Eng_temp/1.wav|Where am I?
+Eng_temp/194.wav|Let's be going as it's rather late.
+Eng_temp/137.wav|Has the bell rung yet? Yes, it has.
+Eng_temp/61.wav|That comedian never smiles at home.
+Eng_temp/176.wav|Nobody had arrived before Mr. and Mrs. A.
+Eng_temp/154.wav|I have often heard of you.
+Eng_temp/95.wav|I do hope I will be able to enter this school and enjoy a happy school life.
+Eng_temp/73.wav|He came up to Seoul last month.
+Eng_temp/48.wav|What a bright spring day!
+Eng_temp/107.wav|By super express it will take you only three hours to go from Seoul to Busan.
+Eng_temp/22.wav|I don't have colds as a general rule.
+Eng_temp/63.wav|It was unusually warm for winter yesterday.
+Eng_temp/162.wav|Three years have passed since he died.
+Eng_temp/131.wav|What shall she do next? Let her sweep the room.
+Eng_temp/111.wav|This door will not shut.
+Eng_temp/71.wav|I did not do anything particular last year.
+Eng_temp/11.wav|It is a quarter past nine by my watch.
+Eng_temp/182.wav|The new schoolhouse which is now under construction, will have been completed by the end of this summer.
+Eng_temp/82.wav|Your nephew came to see you in your absence.
+Eng_temp/93.wav|I will go home as soon as the summer holidays begin.
+Eng_temp/31.wav|Do you know of any good doctor near here?
+Eng_temp/70.wav|The statesman did much for his country.
+Eng_temp/26.wav|My grandfather is an early riser; he never fails to get up at five every morning.
+Eng_temp/175.wav|He had been ill for a week, when a doctor was sent for.
+Eng_temp/42.wav|How do you find your new lodging house?
+Eng_temp/33.wav|Who is this letter from?
+Eng_temp/183.wav|She will have been in hospital for half a year by the end of this month.
+Eng_temp/148.wav|I have not seen him lately, but I am sure he will come to see me before long.
+Eng_temp/112.wav|Boys will be boys.
+Eng_temp/47.wav|How long this iron bridge is!
+Eng_temp/81.wav|The bus was crowded and no vacant seat was to be found.
+Eng_temp/74.wav|My uncle gave me a camera for my birthday present the other day.
+Eng_temp/90.wav|May 5. Sun. Fine. Children's Day. Up at 5. Did English and Math. in the morning. Had doughnuts. Saw movies int the afternoon. Bed at 10.
+Eng_temp/198.wav|Why are a number of people constantly mistaking the meaning of freedom?
+Eng_temp/52.wav|He is a devil of a man. Nobody likes him.
+Eng_temp/8.wav|There is a good deal of wine in this cask.
+Eng_temp/166.wav|He has been devoted to the study of atomic energy ever since he graduated from the university.
+Eng_temp/12.wav|It is fine, but very windy today.
+Eng_temp/135.wav|I have just finished my breakfast.
+Eng_temp/138.wav|I wonder where I have put my glasses.
+Eng_temp/10.wav|What time is it now?
+Eng_temp/172.wav|He asked me if I had finished my supper yet.
+Eng_temp/9.wav|How many months are there in a year?
+Eng_temp/161.wav|Fifty years have passed since he wrote the novel.
+Eng_temp/2.wav|Who is it? It's me.
+Eng_temp/147.wav|I have just been to the station to see Mr. Kim off.
+Eng_temp/104.wav|How much will you need? I will need two thousand won.
+Eng_temp/102.wav|You will have to submit to your fate whether you will or not.
+Eng_temp/141.wav|Recently prices have risen steadily.
+Eng_temp/19.wav|I am sorry I have no money with me.
+Eng_temp/56.wav|The postman does not come round twice every day.
