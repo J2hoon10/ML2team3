@@ -20,6 +20,8 @@
 
 2. data_trim.py 파일을 이용하여 음성 앞 뒤 부분의 22050hz 샘플링과 공백 부분을 조절한다. 
 
+3. filelist
+
 ## 4) Training
 
 ```
