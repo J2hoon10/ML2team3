@@ -10,6 +10,8 @@
 
 2. English dataset : tacotron2_statedict.pt by NVIDA tacotron2(pretraining) + Custom datasets(finetuning)
 
+3. 음성 데이터는 stereo가 아닌 mono 데이터를 사용한다.
+
 ## 3) data preprocessing
 
 1. 음성 파일을 Audacity를 이용하여 노이즈 제거와 노멀라이즈를 진행한다.
@@ -28,8 +30,7 @@
       --checkpoint_path=output\checkpoint_10000 \
       --epochs=500
 ```
-
-(Training 하기 위한 코드 설명)
+hparams.py 에서 더 많은 하이퍼파라미터를 조절할 수 있다. 
 
 ## 5) Training using a pretrained model
 
@@ -44,5 +45,3 @@
       --checkpoint_path=tacotron2_statedict.pt \
       --epochs=500
 ```
-
-(Pretrained model를 사용하여 Training 하기 위한 코드 설명)
