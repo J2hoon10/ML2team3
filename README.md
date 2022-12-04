@@ -62,3 +62,12 @@ vocoder로는 waveglow가 사용되었다.
 프로젝트에서 사용한 [waveglow pretrained model](https://drive.google.com/file/d/1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF/view)
 
 출처 : <https://github.com/NVIDIA/tacotron2/blob/master/README.md>
+
+## 7) tensorboard
+
+tensorboard를 이용해 모델 학습 상황을 확인 할 수 있다. 
+
+```
+  %load_ext tensorboard
+  %tensorboard --logdir output/log
+```
