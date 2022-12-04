@@ -8,7 +8,7 @@
 
 ## 2) data info
 
-1. Korean dataset : [KSS datasets]([정지훈] [https://drive.google.com/file/d/1OoQ-2sIhLOdLQk8UY-cyCpuCGlmKOLTi/view?usp=share_link)(pretraining) + Custom datasets(finetuning)
+1. Korean dataset : [KSS datasets](https://drive.google.com/file/d/1OoQ-2sIhLOdLQk8UY-cyCpuCGlmKOLTi/view?usp=share_link)(pretraining) + Custom datasets(finetuning)
 
 2. English dataset : tacotron2_statedict.pt by NVIDA tacotron2(pretraining) + Custom datasets(finetuning)
 
