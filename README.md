@@ -45,3 +45,9 @@ hparams.py 에서 더 많은 하이퍼파라미터를 조절할 수 있다.
       --checkpoint_path=tacotron2_statedict.pt \
       --epochs=500
 ```
+
+## 6) inference
+
+inference.ipynb 에서 저장된 checkpoint 모델로 음성을 출력해 볼 수 있다. 
+
+vocoder로는 glowwave가 사용되었다. 
