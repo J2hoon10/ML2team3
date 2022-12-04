@@ -57,6 +57,6 @@ inference.ipynb 에서 저장된 checkpoint로 음성을 출력해 볼 수 있�
 
 vocoder로는 waveglow가 사용되었다.
 
-[waveglow pretrained model](https://drive.google.com/file/d/1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF/view)
+프로젝트에서 사용한 [waveglow pretrained model](https://drive.google.com/file/d/1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF/view)
 
 출처 : <https://github.com/NVIDIA/tacotron2/blob/master/README.md>
