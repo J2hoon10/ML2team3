@@ -47,6 +47,9 @@ hparams.py 에서 더 많은 하이퍼파라미터를 조절할 수 있다.
       --checkpoint_path=tacotron2_statedict.pt \
       --epochs=500
 ```
+프로젝트에서 사용한 [tacotron2_statedict.pt](https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view)
+
+출처 : <https://github.com/NVIDIA/tacotron2/blob/master/README.md>
 
 ## 6) inference
 
