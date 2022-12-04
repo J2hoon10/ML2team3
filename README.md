@@ -8,12 +8,11 @@
 
 ## 2) data info
 
-1. Korean dataset : KSS datasets(pretraining) + Custom datasets(finetuning)
+1. Korean dataset : [KSS datasets](.)(pretraining) + Custom datasets(finetuning)
 
 2. English dataset : tacotron2_statedict.pt by NVIDA tacotron2(pretraining) + Custom datasets(finetuning)
 
 3. 음성 데이터는 stereo가 아닌 mono 데이터를 사용한다.
-[KSS dataset](.)
 
 ## 3) data preprocessing
 
