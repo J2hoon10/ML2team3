@@ -29,7 +29,6 @@
       --n_gpus=1 \
       --training_files=filelists/train.txt \
       --validation_files=filelists/dev.txt \
-      --checkpoint_path=output\checkpoint_10000 \
       --epochs=500
 ```
 hparams.py 에서 더 많은 하이퍼파라미터를 조절할 수 있다. 
