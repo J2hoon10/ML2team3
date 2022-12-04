@@ -16,7 +16,7 @@
 
 ## 3) data preprocessing
 
-1. 음성 파일을 Audacity를 이용하여 노이즈 제거와 노멀라이즈를 진행한다.
+1. 음성 파일을 [Audacity](https://audacity.en.softonic.com/download?utm_source=SEM&utm_medium=paid&utm_campaign=EN_UK_DSA&gclid=CjwKCAiAp7GcBhA0EiwA9U0mtv9T5PLH18cnYWziburB_37B0wUwGYJJ-M0DkLB6Kr8ETF1ubGlE4RoCVisQAvD_BwE)를 이용하여 노이즈 제거와 노멀라이즈를 진행한다.
 
 2. data_trim.py 파일을 이용하여 음성 앞 뒤 부분의 22050hz 샘플링과 공백 부분을 조절한다. 
 
