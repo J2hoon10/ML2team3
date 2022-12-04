@@ -33,6 +33,14 @@
       --validation_files=filelists/dev.txt \
       --epochs=500
 ```
+
+하이퍼파라미터 설정 예시
+
+```
+training_files=kss_filelist/train.txt \
+validation_files=kss_filelist/dev.txt \
+```
+
 hparams.py 에서 더 많은 하이퍼파라미터를 조절할 수 있다.
 training 진행 전 hyparams.py에서 training_files과 validation_files에 대한 데이터 전처리 과정에서 제작된 txt 파일 경로와 checkpoint_iteration 지점을 설정한다. 
 
