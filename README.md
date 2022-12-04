@@ -2,7 +2,9 @@
 ## 1) Tacotron 2
 ![tacotron2](https://user-images.githubusercontent.com/96723027/205482780-23e42720-0e99-4a62-9f99-df063091fb67.png)
 
-(Tacotron 2 코드 출처 및 설명)
+해당 코드는 아래 출처 내용을 참고해서 진행되었습니다. 
+
+출처 : 코드 및 전처리 정보 <https://joungheekim.github.io/2021/04/01/code-review/> , <https://joungheekim.github.io/2021/04/02/code-review/>
 
 ## 2) data info
 
@@ -50,4 +52,4 @@ hparams.py 에서 더 많은 하이퍼파라미터를 조절할 수 있다.
 
 inference.ipynb 에서 저장된 checkpoint 모델로 음성을 출력해 볼 수 있다. 
 
-vocoder로는 glowwave가 사용되었다. 
+vocoder로는 waveglow가 사용되었다. 
