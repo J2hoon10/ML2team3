@@ -1,4 +1,4 @@
-# ML2tema3
+# ML2team3
 ## 1) Tacotron2
 ## 2) data info
 ## 3) data preprocessing
