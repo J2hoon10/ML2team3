@@ -53,6 +53,10 @@ hparams.py 에서 더 많은 하이퍼파라미터를 조절할 수 있다.
 
 ## 6) inference
 
-inference.ipynb 에서 저장된 checkpoint 모델로 음성을 출력해 볼 수 있다. 
+inference.ipynb 에서 저장된 checkpoint로 음성을 출력해 볼 수 있다. 
 
-vocoder로는 waveglow가 사용되었다. 
+vocoder로는 waveglow가 사용되었다.
+
+[waveglow pretrained model](https://drive.google.com/file/d/1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF/view)
+
+출처 : <https://github.com/NVIDIA/tacotron2/blob/master/README.md>
